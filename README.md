@@ -1,5 +1,7 @@
 # Playground for Codex
 
+[English](README.md) | [한국어](README.ko.md)
+
 Creates interactive HTML playgrounds: self-contained single-file explorers that let users configure something visually through controls, see a live preview, and copy out a prompt.
 
 This repository is a Codex-compatible adaptation of Anthropic's `playground` Claude plugin.
