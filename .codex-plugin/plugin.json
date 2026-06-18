@@ -1,0 +1,34 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Creates interactive HTML playgrounds: self-contained single-file explorers with visual controls, live preview, and copyable prompt output.",
+  "author": {
+    "name": "Anthropic; Codex adaptation by SANTO"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "playground",
+    "interactive",
+    "html",
+    "prototype",
+    "prompt"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Playground",
+    "shortDescription": "Build interactive single-file HTML explorers with live previews and prompt output.",
+    "longDescription": "Creates self-contained HTML playgrounds with controls, live preview, presets, and a copyable natural-language prompt. Useful for design, data, concept mapping, document critique, code review, and code architecture exploration.",
+    "developerName": "Anthropic; Codex adaptation by SANTO",
+    "category": "Productivity",
+    "capabilities": [
+      "Write",
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Make an interactive playground for this idea.",
+      "Create a visual explorer with live controls.",
+      "Build a single-file HTML prompt playground."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

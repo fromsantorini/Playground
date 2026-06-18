@@ -1,0 +1,15 @@
+Playground for Codex
+
+This project is a Codex-compatible adaptation of Anthropic's `playground`
+Claude plugin from `claude-plugins-official/plugins/playground`.
+
+Original work:
+  Copyright Anthropic
+  Licensed under the Apache License, Version 2.0
+
+Modifications in this adaptation:
+  - Added Codex plugin manifest metadata in `.codex-plugin/plugin.json`.
+  - Updated Claude-specific wording to Codex-specific wording.
+  - Updated usage guidance for Codex local file delivery.
+
+This adaptation is not affiliated with, sponsored by, or endorsed by Anthropic.
